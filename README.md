@@ -1,8 +1,17 @@
 # AI_WORK_AND_LEARN
+## GOAL of the project
 AI project for me to work and learn AI and ML but also working in a fake project structure including a repo, pipeline, possible orchestration, jira
 
-## Random Python tips and resolved issues
+## Useful links
+[PyPi Pages](https://pypi.org/)
 
+[Free Facial Datasets for Face Recognition Model Training](https://www.shaip.com/blog/15-free-image-datasets-to-train-facial-recognition-models/)
+
+[JIRA for project](https://owennelnl.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-2)
+
+[GitHub Repo for personal projects](https://github.com/v30/AI_WORK_AND_LEARN/tree/main)
+
+## Random Python tips and resolved issues
 ### Pip install in Jupyter
 ```
 pip install "numpy<2.0"
